@@ -1,2 +1,2 @@
 # learning
-Test projects to learn some of the ins and outs of GitHub
+This project is just for experimenting with git
